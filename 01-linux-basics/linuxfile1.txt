@@ -1,0 +1,4 @@
+
+hello im ashish
+
+today i learned mkdir, touch, cd, ls, pwd, cd.., nano

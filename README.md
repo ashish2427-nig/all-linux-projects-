@@ -20,4 +20,4 @@ aincluding hands-on practice and mini projects.
 - GitHub
 
 ## Status
-Learning in progress
+Learning in progress.
